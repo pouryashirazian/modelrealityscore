@@ -1,6 +1,7 @@
+pillow
 numpy
 scipy
-lpips
 torch
 torchvision
 torchaudio
+torchmetrics
